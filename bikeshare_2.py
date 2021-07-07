@@ -20,7 +20,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
 
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Welcome to this interactive data analysis tool! Let\'s explore some bikeshare data!')
 
     while True:
         try:
