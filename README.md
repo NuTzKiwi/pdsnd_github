@@ -4,10 +4,10 @@
 07/07/2021
 
 ### Project Title
-Replace the Project Title
+Udacity Git Course
 
 ### Description
-Describe what your project is about and what it does
+This project is an interactive data analysis tool for bikeshare data
 
 ### Files used
 Include the files used
