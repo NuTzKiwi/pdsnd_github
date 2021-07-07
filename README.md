@@ -7,7 +7,7 @@
 Udacity Git Project
 
 ### Description
-This project is an interactive data analysis tool for bikeshare data
+This project is an interactive data analysis tool for bikeshare data using python
 
 ### Files used
 bikeshare_2.py
