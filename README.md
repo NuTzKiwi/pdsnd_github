@@ -10,8 +10,11 @@ Udacity Git Course
 This project is an interactive data analysis tool for bikeshare data
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
