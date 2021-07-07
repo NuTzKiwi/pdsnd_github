@@ -4,7 +4,7 @@
 07/07/2021
 
 ### Project Title
-Udacity Git Course
+Udacity Git Project
 
 ### Description
 This project is an interactive data analysis tool for bikeshare data
